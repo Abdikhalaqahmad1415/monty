@@ -1,1 +1,1 @@
-stack and qeues
+stack and qeuei s
